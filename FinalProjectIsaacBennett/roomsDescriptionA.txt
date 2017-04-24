@@ -1,0 +1,4 @@
+"The room is quiet."
+"The room is a laboratory. Vials and beakers lie broken everywhere."
+"A blown out hole is in the ceiling, the way out is here!"
+"The room has water in it. A pool sits in the middle of the room."
