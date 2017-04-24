@@ -1,0 +1,15 @@
+Key 0 0 0
+"The key is a key dummy."
+"A key lies on the floor."
+Stick 12 2 0
+"It's a stick."
+"A stick floats in the water."
+PotionHP 4 1 6
+"The potion glows faintly. It's a health potion."
+"A potion rests on the floor."
+Sword 12 2 4
+"It's a sword, fairly sharp."
+"A sword sits at the bottom of a pool."
+Sheild 0 3 2
+"A wooden shield."
+"A sheild sits against the wall."

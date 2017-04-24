@@ -1,0 +1,7 @@
+Skeleton 16
+Orc 4
+Slime 16
+Minotaur 12
+Slime 0
+Slime 0
+Slime 0
